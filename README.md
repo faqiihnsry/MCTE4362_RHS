@@ -6,4 +6,6 @@ Matric No: 1916067 <br />
 | Week | Date| Description |
 | --- | --- | --- |
 | Week 1  | 6th March - 12th March | List all new or modified files |
+| Week 2  | 13th March - 19th March | N/A |
+| Week 3  | 20th March - 26th March | N/A |
 
