@@ -6,7 +6,7 @@
 
 | Week | Date| Description |
 | --- | --- | --- |
-| Week 1  | 6th March - 12th March | [Remotely Operated Vehciles (ROV)](Week 1/Remoted Operated Vehicles (ROV).pdf) |
+| Week 1  | 6th March - 12th March | [Remotely Operated Vehicles(ROV)](https://github.com/faqiihnsry/MCTE4362_RHS/blob/main/Week%201/Remoted%20Operated%20Vehicles%20(ROV).pdf)|
 | Week 2  | 13th March - 19th March | N/A |
 | Week 3  | 20th March - 26th March | N/A |
 
