@@ -1,7 +1,7 @@
 # MCTE4362_RHS
-Student's Details
-Full Name: Muhammad Faqiihuddin bin Nasary /n
-Matric No: 1916067
+**Student's Details** <br />
+Full Name: Muhammad Faqiihuddin bin Nasary <br />
+Matric No: 1916067 <br />
 
 | Week | Date| Description |
 | --- | --- | --- |
