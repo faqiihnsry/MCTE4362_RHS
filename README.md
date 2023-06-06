@@ -10,5 +10,6 @@
 | Week 2  | 13th March - 19th March | [Unmanned Aerial Vehicle (UAV)](https://github.com/faqiihnsry/MCTE4362_RHS/blob/main/Week%202/MCTE%204362%20_%20UAV%20.pdf)|
 | Week 3  | 20th March - 26th March | [Autonomous Guided Vehciles (AGV)](https://github.com/faqiihnsry/MCTE4362_RHS/blob/main/Week%203/MCTE%204362%20_%20AGV%20_%20AMR.pdf)|
 | Week 4  | 8th May - 14th May | [Swarm Robots](https://github.com/faqiihnsry/MCTE4362_RHS/blob/main/Week%204/Swarm%20Robots.pdf) |
+| Week 11  | 8th May - 14th May | [Humanoid](https://github.com/faqiihnsry/MCTE4362_RHS/blob/main/Week%204/Swarm%20Robots.pdf) |
 
 
