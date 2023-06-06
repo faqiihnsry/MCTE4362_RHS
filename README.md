@@ -4,12 +4,12 @@
 * Full Name: Muhammad Faqiihuddin bin Nasary <br />
 * Matric No: 1916067 <br />
 
-| Week | Date| Description |
-| --- | --- | --- |
-| Week 1  | 6th March - 12th March | [Remotely Operated Vehicles(ROV)](https://github.com/faqiihnsry/MCTE4362_RHS/blob/main/Week%201/Remoted%20Operated%20Vehicles%20(ROV).pdf)|
-| Week 2  | 13th March - 19th March | [Unmanned Aerial Vehicle (UAV)](https://github.com/faqiihnsry/MCTE4362_RHS/blob/main/Week%202/MCTE%204362%20_%20UAV%20.pdf)|
-| Week 3  | 20th March - 26th March | [Autonomous Guided Vehciles (AGV)](https://github.com/faqiihnsry/MCTE4362_RHS/blob/main/Week%203/MCTE%204362%20_%20AGV%20_%20AMR.pdf)|
-| Week 4  | 8th May - 14th May | [Swarm Robots](https://github.com/faqiihnsry/MCTE4362_RHS/blob/main/Week%204/Swarm%20Robots.pdf) |
-| Week 11  | 8th May - 14th May | [Humanoid](https://github.com/faqiihnsry/MCTE4362_RHS/blob/main/Week%205/Humanoid.pdf) |
+| Assignment | Description |
+| ---  | --- |
+| 1   | [Remotely Operated Vehicles(ROV)](https://github.com/faqiihnsry/MCTE4362_RHS/blob/main/Week%201/Remoted%20Operated%20Vehicles%20(ROV).pdf)|
+| 2  | [Unmanned Aerial Vehicle (UAV)](https://github.com/faqiihnsry/MCTE4362_RHS/blob/main/Week%202/MCTE%204362%20_%20UAV%20.pdf)|
+| 3  | [Autonomous Guided Vehciles (AGV)](https://github.com/faqiihnsry/MCTE4362_RHS/blob/main/Week%203/MCTE%204362%20_%20AGV%20_%20AMR.pdf)|
+| 4   | [Swarm Robots](https://github.com/faqiihnsry/MCTE4362_RHS/blob/main/Week%204/Swarm%20Robots.pdf) |
+| 5   | [Humanoid](https://github.com/faqiihnsry/MCTE4362_RHS/blob/main/Week%205/Humanoid.pdf) |
 
 
